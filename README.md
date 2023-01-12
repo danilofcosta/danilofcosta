@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @danilofcosta
-- 👀 I’m interested in Learn more about the world of programming.
-- 🌱 I’m currently learning python 
+# E ae!    <img src="https://user-images.githubusercontent.com/28010975/210132376-83059ce7-f072-409a-ad06-0aa563d2fb6f.png" width="30">
+Obrigado por visitar meu perfil do GitHub.
 
-
-<!---
-danilofcosta/danilofcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente estou aprendendo python
+Estou interessado em aprender mais sobre o mundo da programação.
