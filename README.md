@@ -3,5 +3,4 @@ Obrigado por visitar meu perfil do GitHub.
 
 ![21116158daaeb1459b4ec0758505e1ad](https://user-images.githubusercontent.com/117859128/212072866-45a77844-020b-4a27-8702-9cdda9dcd543.gif)
 
-Atualmente estou aprendendo python,
-Estou interessado em aprender mais sobre o mundo da programação.
+
